@@ -2,7 +2,7 @@
 
 
 ### Abaddon-Linux
-An alternative Discord client with voice support made with C++ and GTK 3 for linux.
+An alternative Discord client with voice support made with C++ and GTK 3 for linux
 
 ## If you want to build it manually
 1. Install dependencies
